@@ -1,0 +1,15 @@
+# Model weights and local caches (not part of this repository)
+models/
+*.safetensors
+*.bin
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scratch / automation artifacts
+.playwright-mcp/
+Strata-src/
+*.log
+.DS_Store
+Thumbs.db
